@@ -1,0 +1,27 @@
+{
+  "name": "react-native-html5",
+  "version": "0.1.0",
+  "description": "html, html5 parser for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillys/react-native-html5.git"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "react-native",
+    "render",
+    "parse",
+    "htmlview"
+  ],
+  "author": "pillys@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pillys/react-native-html5/issues"
+  },
+  "homepage": "https://github.com/pillys/react-native-html5#readme"
+}
